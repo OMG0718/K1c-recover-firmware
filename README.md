@@ -14,5 +14,7 @@ Just follow the steps and here u are.
 u need the ingenic version 1.3.3.46 
 or update it with usb img. Else it will not homing properly.
 
+root password changed to Creality2023
+
 can found in this reddit :
 https://www.reddit.com/r/crealityk1/comments/1wn3bfc/comment/pbfbrma/?context=1&screen_view_count=2&ext-referrer=SEO
